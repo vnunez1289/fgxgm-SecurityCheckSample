@@ -1,4 +1,4 @@
-FROM node:iron-bookworm-slim
+FROM node:18.17.2
 
 RUN npm install -g npm@9.1.3
 
